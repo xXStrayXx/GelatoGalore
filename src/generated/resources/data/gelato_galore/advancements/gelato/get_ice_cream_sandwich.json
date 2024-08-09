@@ -1,0 +1,39 @@
+{
+  "parent": "gelato_galore:gelato/get_scooper",
+  "criteria": {
+    "get_ice_cream_sandwich": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "gelato_galore:ice_cream_sandwich"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.gelato_galore.get_ice_cream_sandwich.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "gelato_galore:ice_cream_sandwich",
+      "nbt": "{Damage:0}"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.gelato_galore.get_ice_cream_sandwich.title"
+    }
+  },
+  "requirements": [
+    [
+      "get_ice_cream_sandwich"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

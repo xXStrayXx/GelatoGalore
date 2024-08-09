@@ -1,0 +1,12 @@
+{
+    "name": "adzuki",
+	"color": 16754332,
+	"effectInstance": {
+		"effect": "neapolitan:harmony",
+		"duration": 900,
+		"amplifier": 0
+	},
+	"requiredMods": [
+	    "neapolitan"
+	]
+}

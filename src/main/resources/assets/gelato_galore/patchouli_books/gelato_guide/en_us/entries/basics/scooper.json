@@ -1,0 +1,13 @@
+{
+  "name": "Scooper",
+  "icon": "gelato_galore:scooper",
+  "category": "gelato_galore:basics_category",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "gelato_galore:scooper",
+      "title": "Scooper",
+      "text": "The scooper is a useful tool for working with ice cream. Scoop an ice cream ball up, and then place it on another cone, put it in an ice cream sandwich, or even throw it!."
+    }
+  ]
+}

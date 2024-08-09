@@ -1,0 +1,61 @@
+[09Aug2024 09:44:30.219] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgedatauserdev, --assetIndex, 5, --assetsDir, C:\Users\itayf\.gradle\caches\forge_gradle\assets, --gameDir, ., --fml.forgeVersion, 47.3.5, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, --mod, gelato_galore, --all, --output, D:\mods\Minecraft\2024\Gelato Galore\Gelato Galore - Forge - 1.20.1\src\generated\resources, --existing, D:\mods\Minecraft\2024\Gelato Galore\Gelato Galore - Forge - 1.20.1\src\main\resources, --mixin.config, gelato_galore.mixins.json]
+[09Aug2024 09:44:30.225] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.1 by Eclipse Adoptium; OS Windows 10 arch amd64 version 10.0
+[09Aug2024 09:44:30.320] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgedatauserdev
+[09Aug2024 09:44:30.358] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/itayf/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.5/9d1c0c3a304ae6697ecd477218fa61b850bf57fc/mixin-0.8.5.jar%23128!/ Service=ModLauncher Env=CLIENT
+[09Aug2024 09:44:30.613] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\itayf\.gradle\caches\modules-2\files-2.1\net.minecraftforge\javafmllanguage\1.20.1-47.3.5\4c589c051ef533f8898fb5d83514d4186faa0eeb\javafmllanguage-1.20.1-47.3.5.jar is missing mods.toml file
+[09Aug2024 09:44:30.616] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\itayf\.gradle\caches\modules-2\files-2.1\net.minecraftforge\lowcodelanguage\1.20.1-47.3.5\8251eee89645828a05f3b04f5df8945baa0743c4\lowcodelanguage-1.20.1-47.3.5.jar is missing mods.toml file
+[09Aug2024 09:44:30.620] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\itayf\.gradle\caches\modules-2\files-2.1\net.minecraftforge\mclanguage\1.20.1-47.3.5\53971d6fe08ae7ce74a72fa7d14a82de70a8bd1\mclanguage-1.20.1-47.3.5.jar is missing mods.toml file
+[09Aug2024 09:44:30.623] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\itayf\.gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlcore\1.20.1-47.3.5\cc377ceca3274bd1e429c0da17f73720ce29a4d6\fmlcore-1.20.1-47.3.5.jar is missing mods.toml file
+[09Aug2024 09:44:30.727] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[09Aug2024 09:44:31.860] [main/WARN] [mixin/]: Compatibility level JAVA_17 specified by gelato_galore.mixins.json is higher than the maximum level supported by this version of mixin (JAVA_13).
+[09Aug2024 09:44:31.861] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[09Aug2024 09:44:31.869] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgedatauserdev' with arguments [--gameDir, ., --assetsDir, C:\Users\itayf\.gradle\caches\forge_gradle\assets, --assetIndex, 5, --mod, gelato_galore, --all, --output, D:\mods\Minecraft\2024\Gelato Galore\Gelato Galore - Forge - 1.20.1\src\generated\resources, --existing, D:\mods\Minecraft\2024\Gelato Galore\Gelato Galore - Forge - 1.20.1\src\main\resources]
+[09Aug2024 09:44:31.926] [main/INFO] [mixin/]: Attempting to load Fernflower decompiler (Threaded mode)
+[09Aug2024 09:44:31.927] [main/INFO] [mixin/]: Fernflower could not be loaded, exported classes will not be decompiled. NoClassDefFoundError: org/jetbrains/java/decompiler/main/extern/IResultSaver
+[09Aug2024 09:44:31.979] [main/INFO] [mixin/]: Preparing mixins for MixinEnvironment[DEFAULT]
+[09Aug2024 09:44:31.979] [main/INFO] [mixin/]: Selecting config gelato_galore.mixins.json
+[09Aug2024 09:44:31.982] [main/WARN] [mixin/]: Reference map 'gelato_galore.refmap.json' for gelato_galore.mixins.json could not be read. If this is a development environment you can ignore this message
+[09Aug2024 09:44:31.983] [main/INFO] [mixin/]: Selecting config farmersdelight.mixins.json
+[09Aug2024 09:44:32.197] [main/INFO] [mixin/]: Remapping refMap farmersdelight.refmap.json using D:\mods\Minecraft\2024\Gelato Galore\Gelato Galore - Forge - 1.20.1\build\createSrgToMcp\output.srg
+[09Aug2024 09:44:32.197] [main/INFO] [mixin/]: Selecting config patchouli_xplat.mixins.json
+[09Aug2024 09:44:32.198] [main/INFO] [mixin/]: Remapping refMap patchouli.refmap.json using D:\mods\Minecraft\2024\Gelato Galore\Gelato Galore - Forge - 1.20.1\build\createSrgToMcp\output.srg
+[09Aug2024 09:44:32.198] [main/INFO] [mixin/]: Preparing gelato_galore.mixins.json (1)
+[09Aug2024 09:44:32.224] [main/INFO] [mixin/]: Preparing farmersdelight.mixins.json (9)
+[09Aug2024 09:44:32.257] [main/INFO] [mixin/]: Preparing patchouli_xplat.mixins.json (10)
+[09Aug2024 09:44:32.314] [main/INFO] [mixin/]: Prepared 20 mixins in 0.335 sec (16.8ms avg) (0ms load, 0ms transform, 0ms plugin)
+[09Aug2024 09:44:32.587] [main/INFO] [net.minecraftforge.data.loading.DatagenModLoader/]: Initializing Data Gatherer for mods [gelato_galore]
+[09Aug2024 09:44:33.001] [main/INFO] [mixin/]: Mixing PoiTypeMixin from gelato_galore.mixins.json into net.minecraft.world.entity.ai.village.poi.PoiTypes
+[09Aug2024 09:44:33.005] [main/INFO] [mixin/]: Renaming @Accessor method getTypeByState()Ljava/util/Map; to getTypeByState_$md$9e0a6c$0 in gelato_galore.mixins.json:PoiTypeMixin
+[09Aug2024 09:44:33.015] [main/INFO] [mixin/]: Renaming @Invoker method invokeGetBlockStates(Lnet/minecraft/world/level/block/Block;)Ljava/util/Set; to invokeGetBlockStates_$md$9e0a6c$1 in gelato_galore.mixins.json:PoiTypeMixin
+[09Aug2024 09:44:33.052] [main/INFO] [mixin/]: Mixing KeepRichSoilGiantTreeMixin from farmersdelight.mixins.json into net.minecraft.world.level.levelgen.feature.Feature
+[09Aug2024 09:44:33.052] [main/INFO] [mixin/]: Renaming synthetic method lambda$keepRichSoil$0(Lnet/minecraft/world/level/block/state/BlockState;)Z to md9e0a6c$lambda$keepRichSoil$0$0 in farmersdelight.mixins.json:KeepRichSoilGiantTreeMixin
+[09Aug2024 09:44:33.307] [main/INFO] [mixin/]: Mixing CuttingBoardDispenserMixin from farmersdelight.mixins.json into net.minecraft.world.level.block.DispenserBlock
+[09Aug2024 09:44:33.505] [main/INFO] [mixin/]: Mixing CampfireBaleMixin from farmersdelight.mixins.json into net.minecraft.world.level.block.CampfireBlock
+[09Aug2024 09:44:33.794] [main/INFO] [mixin/]: Mixing KeepRichSoilTreeMixin from farmersdelight.mixins.json into net.minecraft.world.level.levelgen.feature.trunkplacers.TrunkPlacer
+[09Aug2024 09:44:33.795] [main/INFO] [mixin/]: Renaming synthetic method lambda$cancelSetDirtIfRichSoil$0(Lnet/minecraft/world/level/block/state/BlockState;)Z to md9e0a6c$lambda$cancelSetDirtIfRichSoil$0$0 in farmersdelight.mixins.json:KeepRichSoilTreeMixin
+[09Aug2024 09:44:34.513] [main/INFO] [mixin/]: Mixing SoupItemMixin from farmersdelight.mixins.json into net.minecraft.world.item.BowlFoodItem
+[09Aug2024 09:44:35.336] [main/INFO] [mixin/]: Mixing RabbitsEatCabbageMixin from farmersdelight.mixins.json into net.minecraft.world.entity.animal.Rabbit
+[09Aug2024 09:44:36.369] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.5, for MC 1.20.1 with MCP 20230612.114412
+[09Aug2024 09:44:36.370] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.5 Initialized
+[09Aug2024 09:44:36.398] [modloading-worker-0/INFO] [mixin/]: Mixing client.AccessorKeyMapping from patchouli_xplat.mixins.json into net.minecraft.client.KeyMapping
+[09Aug2024 09:44:36.399] [modloading-worker-0/INFO] [mixin/]: Renaming @Accessor method getAllKeyMappings()Ljava/util/Map; to getAllKeyMappings_$md$9e0a6c$0 in patchouli_xplat.mixins.json:client.AccessorKeyMapping
+[09Aug2024 09:44:36.416] [modloading-worker-0/INFO] [mixin/]: Mixing CanvasSignEditScreenMixin from farmersdelight.mixins.json into net.minecraft.client.player.LocalPlayer
+[09Aug2024 09:44:36.512] [modloading-worker-0/INFO] [mixin/]: Mixing client.AccessorScreen from patchouli_xplat.mixins.json into net.minecraft.client.gui.screens.Screen
+[09Aug2024 09:44:36.552] [modloading-worker-0/INFO] [mixin/]: Mixing client.MixinInventoryScreen from patchouli_xplat.mixins.json into net.minecraft.client.gui.screens.inventory.InventoryScreen
+[09Aug2024 09:44:36.658] [modloading-worker-0/INFO] [mezz.jei.library.load.PluginCaller/]: Sending ConfigManager...
+[09Aug2024 09:44:36.664] [modloading-worker-0/INFO] [mezz.jei.library.load.PluginCaller/]: Sending ConfigManager took 4.196 ms
+[09Aug2024 09:44:36.666] [modloading-worker-0/INFO] [mixin/]: Mixing accessor.RecipeManagerAccessor from farmersdelight.mixins.json into net.minecraft.world.item.crafting.RecipeManager
+[09Aug2024 09:44:37.027] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/D:/mods/Minecraft/2024/Gelato%20Galore/Gelato%20Galore%20-%20Forge%20-%201.20.1/build/fg_cache/net/minecraftforge/forge/1.20.1-47.3.5_mapped_official_1.20.1/forge-1.20.1-47.3.5_mapped_official_1.20.1.jar%23191!/assets/.mcassetsroot' uses unexpected schema
+[09Aug2024 09:44:37.027] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/D:/mods/Minecraft/2024/Gelato%20Galore/Gelato%20Galore%20-%20Forge%20-%201.20.1/build/fg_cache/net/minecraftforge/forge/1.20.1-47.3.5_mapped_official_1.20.1/forge-1.20.1-47.3.5_mapped_official_1.20.1.jar%23191!/data/.mcassetsroot' uses unexpected schema
+[09Aug2024 09:44:37.156] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:block mod id gelato_galore
+[09Aug2024 09:44:37.285] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:block mod id gelato_galore finished after 128 ms
+[09Aug2024 09:44:37.286] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:item mod id gelato_galore
+[09Aug2024 09:44:37.288] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:item mod id gelato_galore finished after 2 ms
+[09Aug2024 09:44:37.289] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:point_of_interest_type mod id vanilla
+[09Aug2024 09:44:37.289] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:point_of_interest_type mod id vanilla finished after 0 ms
+[09Aug2024 09:44:37.290] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Recipes
+[09Aug2024 09:44:37.315] [main/INFO] [net.minecraft.data.DataGenerator/]: Recipes finished after 25 ms
+[09Aug2024 09:44:37.315] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Advancements
+[09Aug2024 09:44:37.331] [main/INFO] [net.minecraft.data.DataGenerator/]: Advancements finished after 15 ms
+[09Aug2024 09:44:37.331] [main/INFO] [net.minecraft.data.DataGenerator/]: All providers took: 174 ms
+[09Aug2024 09:44:37.341] [main/INFO] [net.minecraft.data.HashCache/]: Caching: total files: 71, old count: 69, new count: 72, removed stale: 0, written: 2

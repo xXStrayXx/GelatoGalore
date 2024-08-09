@@ -1,0 +1,12 @@
+{
+    "name": "banana",
+	"color": 16774276,
+	"effectInstance": {
+		"effect": "neapolitan:agility",
+		"duration": 900,
+		"amplifier": 0
+	},
+	"requiredMods": [
+	    "neapolitan"
+	]
+}

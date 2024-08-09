@@ -1,0 +1,12 @@
+{
+    "name": "mint",
+	"color": 7133870,
+	"effectInstance": {
+		"effect": "neapolitan:berserking",
+		"duration": 900,
+		"amplifier": 0
+	},
+	"requiredMods": [
+	    "neapolitan"
+	]
+}

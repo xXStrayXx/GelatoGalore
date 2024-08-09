@@ -1,0 +1,7 @@
+{
+    "parent": "item/fishing_rod",
+    "textures": {
+        "layer0": "gelato_galore:item/scooper",
+		"layer1": "gelato_galore:item/scooper_ball"
+    }
+}

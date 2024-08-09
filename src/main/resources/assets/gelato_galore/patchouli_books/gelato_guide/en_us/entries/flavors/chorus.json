@@ -1,0 +1,20 @@
+{
+  "name": "Chorus",
+  "icon": "gelato_galore:ice_cream_one{Flavors:[{0: \"gelato_galore:chorus\"}]}",
+  "category": "gelato_galore:flavors_category",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+	  "title": "Chorus Ice Cream",
+      "item": "gelato_galore:ice_cream_one{Flavors:[{0: \"gelato_galore:chorus\"}]}",
+      "text": "I bet you never tried it before, but chorus-flavored ice cream can lift your spirits!"
+    },
+	{
+      "type": "patchouli:crafting",
+      "title": "Chorus Syrup",
+      "recipe": "gelato_galore:chorus_flavor_syrup",
+      "result": "gelato_galore:syrup{Filling:\"gelato_galore:chorus\"}",
+      "text": "To make the syrup you need to create ice cream, you need to place these items in a crafting table."
+    }
+  ]
+}

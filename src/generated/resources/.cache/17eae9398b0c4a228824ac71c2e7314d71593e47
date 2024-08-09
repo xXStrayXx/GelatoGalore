@@ -1,0 +1,15 @@
+// 1.20.1	2024-08-05T06:59:26.1937244	Tags for minecraft:item mod id gelato_galore
+edb5947f84984a39ab47c98c6fb0b3c3a9a8cc39 data/forge/tags/items/milk.json
+1ebec1d50335e1c0f2e3108a9f2cb34920683298 data/gelato_galore/tags/items/caramel_flavor.json
+459ca9f0ebb9cea63ddb360c3a40876cc05de011 data/gelato_galore/tags/items/chocolate_flavor.json
+b4cc0642cc95aece33ec9cce364d245dd186c647 data/gelato_galore/tags/items/chorus_flavor.json
+52ed71cc15bb3d70d4f3238887079fdb47e8d4d5 data/gelato_galore/tags/items/compat/adzuki_flavor.json
+731ca67ac60192e9e45681303589c863b7d3ef83 data/gelato_galore/tags/items/compat/banana_flavor.json
+a8065ce90afaf0435704b6ddde9324fea9dd89e1 data/gelato_galore/tags/items/compat/coffee_flavor.json
+e6d2989abc0c43896cdeb48a0dd883c7342c8f1c data/gelato_galore/tags/items/compat/green_tea_flavor.json
+8583823663dfbb35d841575eaba3cc63c9d71db3 data/gelato_galore/tags/items/compat/mint_flavor.json
+c2a4f83c6c9240028fc19f82132631f4984e0983 data/gelato_galore/tags/items/compat/strawberry_flavor.json
+4546095bedc2f00f5b292731ce930510bc0fe87a data/gelato_galore/tags/items/honey_flavor.json
+3fc49343f8b34a46531354a6796b3e2836a6defc data/gelato_galore/tags/items/melon_flavor.json
+65a948972be54d0dc9ce5ee6eb59a29341fd6ec0 data/gelato_galore/tags/items/sweet_berry_flavor.json
+bc52c250323676f83707f53302cf53cf4e7cb637 data/gelato_galore/tags/items/vanilla_flavor.json

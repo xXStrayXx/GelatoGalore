@@ -1,0 +1,12 @@
+{
+    "name": "strawberry",
+	"color": 15311834,
+	"effectInstance": {
+		"effect": "minecraft:instant_health",
+		"duration": 10,
+		"amplifier": 0
+	},
+	"requiredMods": [
+	    "neapolitan"
+	]
+}

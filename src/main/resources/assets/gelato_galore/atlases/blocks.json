@@ -1,0 +1,8 @@
+{
+  "sources": [
+    {
+      "type": "single",
+      "resource": "block/ice_cream_block"
+    }
+  ]
+}

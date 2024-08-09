@@ -1,0 +1,19 @@
+{
+  "name": "Ice Cream Sandwich",
+  "icon": "gelato_galore:ice_cream_sandwich{Filling:\"gelato_galore:chocolate\"}",
+  "category": "gelato_galore:basics_category",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "Ice Cream Sandwich",
+      "item": "gelato_galore:ice_cream_sandwich{Filling:\"gelato_galore:chocolate\"}",
+      "text": "Ice cream sandwiches are a delight that you can eat multiple times! Each ice cream sandwich has 4 bites you can take.$(br2)When you eat an ice cream sandwich, you get a weakened version of the effect of the flavor."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Ice Cream Sandwich",
+      "item": "gelato_galore:ice_cream_sandwich{Filling:\"gelato_galore:chocolate\"},gelato_galore:ice_cream_sandwich{Filling:\"gelato_galore:vanilla\"},gelato_galore:ice_cream_sandwich{Filling:\"gelato_galore:sweet_berry\"}",
+      "text": "To create an ice cream sandwich, stick an ice cream ball between two cookies using a scooper. The sandwich would then have the ice cream flavor that you chose."
+    }
+  ]
+}

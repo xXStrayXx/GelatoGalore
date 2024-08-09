@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "gelato_galore:item/ice_cream_sandwich_cookies",
+		"layer1": "gelato_galore:item/ice_cream_sandwich_filling"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "coffee",
+	"color": 8083258,
+	"effectInstance": {
+		"effect": "farmersrespite:caffeinated",
+		"duration": 900,
+		"amplifier": 0
+	},
+	"requiredMods": [
+	    "farmersrespite"
+	]
+}

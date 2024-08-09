@@ -1,0 +1,14 @@
+{
+    "parent": "item/handheld_rod",
+    "textures": {
+        "layer0": "gelato_galore:item/scooper_whole"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "filled": 1
+            },
+            "model": "gelato_galore:item/scooper_filled"
+        }
+    ]
+}

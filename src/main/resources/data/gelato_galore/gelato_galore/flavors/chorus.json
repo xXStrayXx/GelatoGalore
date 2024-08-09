@@ -1,0 +1,9 @@
+{
+    "name": "chorus",
+	"color": 9332621,
+	"effectInstance": {
+		"effect": "minecraft:levitation",
+		"duration": 900,
+		"amplifier": 0
+	}
+}

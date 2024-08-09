@@ -1,0 +1,12 @@
+{
+    "name": "green_tea",
+	"color": 11976017,
+	"effectInstance": {
+		"effect": "minecraft:haste",
+		"duration": 900,
+		"amplifier": 0
+	},
+	"requiredMods": [
+	    "farmersrespite"
+	]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:iron_ingot"
+    },
+    "X": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "pattern": [
+    "  #",
+    " #X",
+    "#  "
+  ],
+  "result": {
+    "item": "gelato_galore:scooper"
+  },
+  "show_notification": true
+}

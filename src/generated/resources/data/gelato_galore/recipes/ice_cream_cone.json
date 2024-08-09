@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:sugar"
+    },
+    "X": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "pattern": [
+    "   ",
+    "X#X",
+    " X "
+  ],
+  "result": {
+    "count": 2,
+    "item": "gelato_galore:ice_cream_cone"
+  },
+  "show_notification": true
+}
